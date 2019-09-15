@@ -1,0 +1,1 @@
+java -jar org.jacoco.cli-0.8.0.jar report jacoco.exec --classfiles /target --html /target/site
